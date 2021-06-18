@@ -1,6 +1,6 @@
-# Windows2019RDP-US
+# Windows2021RDP-US
 
-Create a free VPS with 2cpu-7gb Ram FREE with Github:
+AALIYEV VPS:
 
 + Click Fork in the right corner of the screen to save it to your Github.
 + Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
